@@ -6,6 +6,8 @@ public class Philosophy {
     private int vision;
     private String philosophyName;
 
+
+
     public Philosophy(String philosophyName) {
         this.philosophyName = philosophyName;
         this.knowledge = 15;
